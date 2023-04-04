@@ -81,3 +81,22 @@
 * 测试结果界面
 
 ![测试结果界面](./result_images/练习结果页面.PNG)
+
+* 成绩汇总与可视化分析：
+
+`成绩汇总`:
+![成绩汇总](./result_images/我的分数界面.PNG)
+
+`学生成绩走向图`:
+![学生成绩走向图](./result_images/成长足迹.PNG)
+
+`学生成绩分布图`:
+![学生成绩分布图](./result_images/成绩饼状图.PNG)
+
+* 学生管理界面
+
+![学生管理界面](./result_images/管理员界面.PNG)
+
+## Postman测试结口
+
+![有效查询结果](./result_images/按照课程ID查询章节.PNG)
